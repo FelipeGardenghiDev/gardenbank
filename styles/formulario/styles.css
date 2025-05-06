@@ -32,12 +32,12 @@
 .breadcrumb li {
     display: inline;
     font-size: 16px;
-    color: var(--azul-claro);
+    color: var(--vermelho);
 }
 
 .breadcrumb li+li:before {
     padding: 8px;
-    color: var(--azul-claro);
+    color: var(--vermelho);
     content: ">";
 }
 
@@ -68,7 +68,7 @@
 
 .campo__escrita {
     display: block;
-    border: 2px solid var(--azul-claro);
+    border: 2px solid var(--vermelho);
     border-radius: 20px;
     width: 100%;
     padding: 1em;
@@ -87,7 +87,7 @@
 
 .formulario__botao,
 .camera__botao {
-    background: var(--azul-claro);
+    background: var(--vermelho);
     margin: 2em auto;
     display: block;
     border: none;
